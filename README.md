@@ -1,2 +1,2 @@
 # Ubuntu_test
-Setting uo git in Ubuntu
+Setting up git in Ubuntu VM and uploading to github
